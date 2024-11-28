@@ -1,7 +1,6 @@
 body {
     /* background: rgb(0,0,0);
     background: linear-gradient(0deg, rgba(0,0,0,1) 46%, rgba(19,224,221,1) 89%); */
-    background-image: url("assets/isaac.jpg");
-    width: auto;
-    height: auto;
+    background-image: url("../assets/isaac.jpg");
+    background-size: 100vw 100vh;
 }
